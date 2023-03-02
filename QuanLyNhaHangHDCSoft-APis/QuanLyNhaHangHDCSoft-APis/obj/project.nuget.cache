@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "57c2gd75HogUk4Ju9Y4aIhMlHGyzDPML6jpP9CAJ2WNz7pEnTaF9TT3Dk9XsnvjzITYSxPv+Zq/5c/k6iUvQdg==",
+  "success": true,
+  "projectFilePath": "C:\\Angular\\QuanLyNhaHangHDCSoft-Angular\\WebApis\\QuanLyNhaHangHDCSoft-APis\\QuanLyNhaHangHDCSoft-APis\\QuanLyNhaHangHDCSoft-APis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

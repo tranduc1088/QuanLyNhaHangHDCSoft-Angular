@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuanLyNhaHangHDCSoft-APis.props" />
+</Project>
